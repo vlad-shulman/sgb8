@@ -1,0 +1,16 @@
+{
+"companyName": "fika",
+"productName": "fika",
+"dataUrl": "test8 80mem and webasem.data.unityweb",
+"wasmCodeUrl": "test8 80mem and webasem.wasm.code.unityweb",
+"wasmFrameworkUrl": "test8 80mem and webasem.wasm.framework.unityweb",
+"wasmSymbolsUrl": "test8 80mem and webasem.wasm.symbols.unityweb",
+"asmCodeUrl": "test8 80mem and webasem.asm.code.unityweb",
+"asmMemoryUrl": "test8 80mem and webasem.asm.memory.unityweb",
+"asmFrameworkUrl": "test8 80mem and webasem.asm.framework.unityweb",
+"asmSymbolsUrl": "test8 80mem and webasem.asm.symbols.unityweb",
+"TOTAL_MEMORY": 83886080,
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36",
+"cacheControl": {"dataUrl": "must-revalidate"}
+}
